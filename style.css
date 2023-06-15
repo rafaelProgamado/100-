@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: red;
+background-image: rgb(255,0,0);
 }
 
 .header
